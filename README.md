@@ -8,7 +8,7 @@ Beginner Software Tester
 * Chrome Dev Tools
 * Test Management: [JIRA](), TestLink
 * [Postman](https://web.postman.co/)
-* Screenshots: [Screenpresso](), [ShareX](), [Greenshot]()
+* Screenshots: [Screenpresso](), [ShareX](), [Greenshot](https://github.com/noitanigami72/Portfolio/)
 ## Tech Stack
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
