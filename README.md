@@ -6,8 +6,9 @@ Beginner Software Tester
 ## Tools used in testing:
 
 * Chrome Dev Tools
-* [JIRA]()
+* Test Management: [JIRA](), TestLink
 * [Postman](https://web.postman.co/)
+* Screenshots: [Screenpresso](), [ShareX](), [Greenshot]()
 ## Tech Stack
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
