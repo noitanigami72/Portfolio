@@ -22,8 +22,9 @@ Beginner Software Tester
 * [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie)
 
 
-## LinkedIn Courses and Learning Paths (latest first)
+## LinkedIn Courses and Learning Paths
 
+* [Software Testing Foundations: Test Planning](https://www.linkedin.com/learning/software-testing-foundations-test-planning)
 * [Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020)
 * [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
 * [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit-14267963)
