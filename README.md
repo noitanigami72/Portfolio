@@ -2,7 +2,7 @@
 
 ## About me
 
-Beginner Software Tester
+Ambitious beginner Software Tester
 ## Tools used in testing:
 
 * Chrome Dev Tools
