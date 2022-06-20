@@ -39,7 +39,7 @@ Beginner Software Tester
 * [Learning Selenium](https://www.linkedin.com/learning/learning-selenium)
 * [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
 * [Scripting for Testers](https://www.linkedin.com/learning/scripting-for-testers)
-* [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers)
+* [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers) [Cerificate](https://drive.google.com/file/d/1Xfas2GKOu_TXYOGlqGJeQ_2_dCNMf3My/view?usp=sharing)
 * [Software Testing: Exploratory Testing](https://www.linkedin.com/learning/software-testing-exploratory-testing)
 * [Learning Jira Software](https://www.linkedin.com/learning/learning-jira-software-2019)
 * [Insights on Software Quality Engineering](https://www.linkedin.com/learning/insights-on-software-quality-engineering)
