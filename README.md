@@ -58,6 +58,6 @@ Beginner Software Tester
 ## Favourite Websites
 
 * [Software Testing Help](https://www.softwaretestinghelp.com/)
-* [Ministry Of Testing](https://www.ministryoftesting.com/)
+* [Ministry Of Testing](https://www.ministryoftesting.com/dojo/series/99-second-introductions-from-software-testing-clinic/lessons/99-second-introduction-to-testing)
 * [WyszkoleWas](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
 * 
