@@ -55,7 +55,7 @@ Ambitious beginner Software Tester
 * Certyfikowany tester Sylabus poziomu podstawowego ISTQB 2018 wersja 3.1
 
 
-## Favourite Websites
+## Favourite Testing Knowledge Websites
 
 * [Guru99 Software Testing Tutorial: Free QA Course](https://www.guru99.com/software-testing.html)
 * [Software Testing Help](https://www.softwaretestinghelp.com/)
