@@ -6,7 +6,7 @@ Beginner Software Tester
 ## Tools used in testing:
 
 * Chrome Dev Tools
-* Test Management: [JIRA](https://github.com/noitanigami72/Portfolio/blob/main/JIRA_AlegroCart_2.png), TestLink
+* Test Management: [JIRA](https://drive.google.com/file/d/1gW7B3s2FYi8HjvEihQlIQs5qGTCCxvSY/view), TestLink
 * [Postman](https://web.postman.co/)
 * Screenshots: [Screenpresso](), [ShareX](), [Greenshot](https://github.com/noitanigami72/Portfolio/)
 ## Tech Stack
