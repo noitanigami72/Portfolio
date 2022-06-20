@@ -53,3 +53,11 @@ Beginner Software Tester
 * [Testowanie oprogramowania. Podręcznik dla początkujących ](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 * Certyfikowany tester Sylabus poziomu podstawowego ISTQB 2018 wersja 3.1
+
+
+## Favourite Websites
+
+* [Software Testing Help](softwaretestinghelp.com)
+* [Ministry Of Testing](https://www.ministryoftesting.com/)
+* [WyszkoleWas](https://www.wyszkolewas.com.pl/category/dokumentacja-testowa/)
+* 
