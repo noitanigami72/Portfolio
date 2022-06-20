@@ -59,5 +59,5 @@ Beginner Software Tester
 
 * [Software Testing Help](https://www.softwaretestinghelp.com/)
 * [Ministry Of Testing](https://www.ministryoftesting.com/)
-* [WyszkoleWas](https://www.wyszkolewas.com.pl/category/dokumentacja-testowa/)
+* [WyszkoleWas](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
 * 
