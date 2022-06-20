@@ -63,4 +63,4 @@ Ambitious beginner Software Tester
 * [WyszkoleWas](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
 * [Facebook: grupa Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [testuj.pl](https://testuj.pl/blog/)
-* [GetISTQB](http://getistqb.com/#quizzes) - quizy z zakresu ISTQB
+* [GetISTQB](http://getistqb.com/#quizzes) - ISTQB quizzes
