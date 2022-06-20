@@ -64,3 +64,4 @@ Ambitious beginner Software Tester
 * [Facebook: grupa Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [testuj.pl](https://testuj.pl/blog/)
 * [GetISTQB](http://getistqb.com/#quizzes) - ISTQB quizzes
+* [Poradnik o testowaniu oprogramowania](https://docplayer.pl/9367924-Poradnik-o-testowaniu-oprogramowania.html)
