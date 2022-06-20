@@ -61,4 +61,6 @@ Ambitious beginner Software Tester
 * [Software Testing Help](https://www.softwaretestinghelp.com/)
 * [Ministry Of Testing](https://www.ministryoftesting.com/dojo/series/99-second-introductions-from-software-testing-clinic/lessons/99-second-introduction-to-testing)
 * [WyszkoleWas](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
+* [Facebook: grupa Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+* [testuj.pl](https://testuj.pl/blog/)
 * 
