@@ -16,7 +16,7 @@ Ambitious beginner Software Tester
 * Databases: MySQL, MS SQL;
 * Languages: Python (intermediate), Javascript (intermediate), SQL (intermediate), Java (beginner) (all studied for the purpose of further Test Automation)
 * Version Control Systems: Git, Github;
-* Other tools: JIRA, Confluence, TestLink, Trello
+* Testing management tools: JIRA, Confluence, TestLink, Trello
 
 ## Courses 
 * [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie)
