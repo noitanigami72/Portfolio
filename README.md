@@ -5,7 +5,7 @@
 Ambitious beginner Software Tester
 ## Tools used in testing:
 
-* [Chrome Dev Tools](https://drive.google.com/file/d/1G2Y_nv0FjFomJGP3y2mu0vVcJBe1nZUz/view?usp=sharing)
+* [Chrome Dev Tools](https://drive.google.com/file/d/1JyIpPtUnjBk30in6eIuaMBTEXuuXQE81/view?usp=sharing)
 * Test Management: [JIRA](https://drive.google.com/file/d/1gW7B3s2FYi8HjvEihQlIQs5qGTCCxvSY/view), TestLink
 * Postman
 * Screenshots: Screenpresso, ShareX, Greenshot
