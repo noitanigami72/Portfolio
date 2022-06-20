@@ -7,7 +7,7 @@ Beginner Software Tester
 
 * Chrome Dev Tools
 * Test Management: [JIRA](https://drive.google.com/file/d/1gW7B3s2FYi8HjvEihQlIQs5qGTCCxvSY/view), TestLink
-* [Postman](https://web.postman.co/)
+* Postman
 * Screenshots: Screenpresso, ShareX, Greenshot
 ## Tech Stack
 
