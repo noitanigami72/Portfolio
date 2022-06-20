@@ -57,6 +57,7 @@ Ambitious beginner Software Tester
 
 ## Favourite Websites
 
+* [Guru99 Software Testing Tutorial: Free QA Course](https://www.guru99.com/software-testing.html)
 * [Software Testing Help](https://www.softwaretestinghelp.com/)
 * [Ministry Of Testing](https://www.ministryoftesting.com/dojo/series/99-second-introductions-from-software-testing-clinic/lessons/99-second-introduction-to-testing)
 * [WyszkoleWas](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
