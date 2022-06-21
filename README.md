@@ -71,3 +71,4 @@ Ambitious beginner Software Tester
 
 * [Testowanie Oprogramowania @ Technika Programowania](https://www.youtube.com/playlist?list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9)
 * [Evil Tester](https://www.youtube.com/c/EvilTester/videos)
+* [Zawód Tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/videos)
