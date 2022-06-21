@@ -7,6 +7,7 @@ Ambitious beginner Software Tester
 
 * [Chrome Dev Tools](https://drive.google.com/file/d/1JyIpPtUnjBk30in6eIuaMBTEXuuXQE81/view?usp=sharing)
 * Test Management: [JIRA](https://drive.google.com/file/d/1gW7B3s2FYi8HjvEihQlIQs5qGTCCxvSY/view), TestLink
+* Bug reporting: Bird Eats Bug
 * Postman
 * Screenshots: Screenpresso, ShareX, Greenshot
 ## Tech Stack
