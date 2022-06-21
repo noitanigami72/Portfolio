@@ -65,3 +65,9 @@ Ambitious beginner Software Tester
 * [testuj.pl](https://testuj.pl/blog/)
 * [GetISTQB](http://getistqb.com/#quizzes) - ISTQB quizzes
 * [Poradnik o testowaniu oprogramowania](https://docplayer.pl/9367924-Poradnik-o-testowaniu-oprogramowania.html)
+
+
+## Youtube Favourite Sources
+
+* [Testowanie Oprogramowania @ Technika Programowania](https://www.youtube.com/playlist?list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9)
+* [Evil Tester](https://www.youtube.com/c/EvilTester/videos)
