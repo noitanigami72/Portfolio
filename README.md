@@ -14,7 +14,7 @@ Ambitious beginner Software Tester
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
 * Testing: Postman, Selenium,
-* Databases: MySQL, MS SQL;
+* Databases: SQLite, MySQL, MS SQL;
 * Languages: Python (intermediate), Javascript (intermediate), SQL (intermediate), Java (beginner) (all studied for the purpose of further Test Automation)
 * Version Control Systems: Git, Github;
 * Testing management tools: JIRA, Confluence, TestLink, [Trello](https://drive.google.com/file/d/1Nf9HvpfN4U1-9QzDW7-O6YmDMRS1rYv2/view?usp=sharing)
