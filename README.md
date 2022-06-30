@@ -13,7 +13,7 @@ Ambitious beginner Software Tester
 ## Tech Stack
 
 * ISTQB: Foundation Level Trainee with no certificate so far;
-* Testing: Postman, Selenium,
+* Testing: Postman, Selenium, [TestRigor](https://vimeo.com/725598709);
 * Databases: SQLite, MySQL, MS SQL;
 * Languages: Python (intermediate), Javascript (intermediate), SQL (intermediate), Java (beginner) (all studied for the purpose of further Test Automation)
 * Version Control Systems: Git, Github;
