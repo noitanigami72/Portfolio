@@ -13,6 +13,7 @@ Ambitious beginner Software Tester
 * Screenshots: Screenpresso, ShareX, Greenshot
 ## Tech Stack
 
+* Web technologies (HTML, CSS, HTTP, SOAP, REST);
 * ISTQB: Foundation Level Trainee with no certificate so far;
 * Testing: Postman, Selenium, [TestRigor](https://vimeo.com/725598709);
 * Databases: SQLite, MySQL, MS SQL;
